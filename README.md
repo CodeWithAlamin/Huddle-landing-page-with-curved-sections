@@ -1,6 +1,6 @@
 # Frontend Mentor - Huddle landing page with curved sections solution
 
-This is a solution to the [Huddle landing page with curved sections challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Huddle landing page with curved sections challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- [👉 Click here to see Live preview👈](https://codepapa360.github.io/Huddle-landing-page-with-curved-sections/)
-<br>
+- [👉 Click here to see Live preview👈](https://huddle-curved-section-alamin.netlify.app)
+  <br>
 
 - [👉 Frontendmentor solution👈](https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-with-curved-sections-92qqlJHBG7)
 
@@ -41,9 +41,9 @@ Users should be able to:
 
 ## Author
 
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
+- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
 
 ### Screenshot
 
@@ -51,6 +51,6 @@ Users should be able to:
 
 <p><img align="center" src="design/Huddle landing page with curved sections - desktop preview.png"/></p>
 
-#### Mobile preview 
+#### Mobile preview
 
 <p><img align="center" width="30%" src="design/Huddle landing page with curved sections - mobile preview.png"/></p>
